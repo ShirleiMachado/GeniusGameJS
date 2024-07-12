@@ -26,12 +26,12 @@ Este é um jogo da memória estilo Genius, onde o jogador deve repetir a sequên
 
 ## Estrutura do Projeto
 
-.
+O projeto é composto pelos seguintes arquivos:
+
+project-folder/
 ├── index.html
 ├── styles.css
 └── script.js
-
-O projeto é composto pelos seguintes arquivos:
 
 - **index.html**: Estrutura HTML do jogo.
 - **styles.css**: Estilos CSS para a aparência do jogo.
